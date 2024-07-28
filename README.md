@@ -1,8 +1,14 @@
 # Hi there It's me, Venkatesh 👋
-## Data Analyst
+## A passionate developer from India
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
-- 🌱 I'm currently learning Data science
+- 🔭 I’m currently working on **Full-Stack development (Python)**
+- 🌱 I’m currently learning **Web-Development**
+- 👯 I’m looking to collaborate on **Web-Development Projects**
+- 👨‍💻 All of my projects are available at
+- 📫 How to reach me **venkatesh121002@gmail.com**
+- 
+
 
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/venkatesh121002/)
