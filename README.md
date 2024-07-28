@@ -6,8 +6,7 @@
 - 🌱 I’m currently learning **Web-Development**
 - 👯 I’m looking to collaborate on **Web-Development Projects**
 - 👨‍💻 All of my projects are available at
-- 📫 How to reach me **venkatesh121002@gmail.com**
-- 
+- 📫 How to reach me **venkatesh121002@gmail.com** 
 
 
 - 📫 How to reach me :
