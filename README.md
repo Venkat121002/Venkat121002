@@ -2,8 +2,7 @@
 ## A passionate developer from India
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
-- 🔭 I’m currently working on **Full-Stack development (Python)**
-- 🌱 I’m currently learning **Web-Development**
+- 🔭 I’m currently learning on **Full-Stack development (Python)**
 - 👯 I’m looking to collaborate on **Web-Development Projects**
 - 👨‍💻 All of my projects are available at
 - 📫 How to reach me **venkatesh121002@gmail.com** 
