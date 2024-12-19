@@ -2,21 +2,17 @@
 ## 🚀 **Aspiring Full-Stack Developer**
 ## 🌟 **Motivated to create impactful web applications**
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
----
 
 ## 🔭 What I'm Currently Learning  
 - 🌐 **Full-Stack Development with Python**  
   (HTML, CSS, JavaScript, Bootstrap, Django, and SQL)  
 - 🛠️ Backend Development and building scalable systems
----
 
 ## 👯 Looking to Collaborate  
 I’m eager to work on **Web Development Projects**, especially in backend development. 
----
 
 ## 💻 My Projects  
 All of my projects are available on my [GitHub Repository](https://github.com/Venkat121002?tab=repositories)
----
  
 ### I code in
 <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/> <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap--v2.png" alt="bootstrap--v2"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img width="48" height="48" src="https://img.icons8.com/color/48/000000/django.png" alt="django"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
