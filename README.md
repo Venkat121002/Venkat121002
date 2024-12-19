@@ -10,7 +10,7 @@
 
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/venkatesh121002/)
-![linkedin](https://github.com/user-attachments/assets/46af4ef5-1261-4f97-a7e8-3a8718c41c0f)
+![linkedin](<img width="48" height="48" src="https://github.com/user-attachments/assets/46af4ef5-1261-4f97-a7e8-3a8718c41c0f" />)
 
 
 ### I code in
