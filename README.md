@@ -10,7 +10,7 @@
 
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/venkatesh121002/)
-<img src="https://img.shields.io/badge/logo-linkedin-blue?logo=javascript" />
+<br /> [<img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>](https://www.linkedin.com/in/venkatesh121002/)
 
 ### I code in
 <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/> <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap--v2.png" alt="bootstrap--v2"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img width="48" height="48" src="https://img.icons8.com/color/48/000000/django.png" alt="django"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
