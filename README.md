@@ -1,5 +1,5 @@
 # Hi there I'm Venkatesh! 👋
-### 🚀 **Aspiring Full-Stack Developer**
+### 🚀 **Aspiring Full-Stack Developer (Pyhton)**
 ### 🌟 **Motivated to create impactful web applications**
 ### 🔭 What I'm Currently Learning  
 - 🌐 **Full-Stack Development with Python**  
