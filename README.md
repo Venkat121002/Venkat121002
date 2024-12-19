@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on **Web-Development Projects**
 - 👨‍💻 All of my projects are available at
 - 📫 How to reach me **venkatesh121002@gmail.com** 
-<br /> [<img width="80" height="30" src="https://img.shields.io/badge/LinkedIn-blue" />](https://www.linkedin.com/in/venkatesh121002/)[<img width="80" height="30" src="https://img.shields.io/badge/Personal_Portfolio-blue" />](https://venkat121portfolio.netlify.app/)
+<br /> [<img width="80" height="30" src="https://img.shields.io/badge/LinkedIn-blue" />](https://www.linkedin.com/in/venkatesh121002/)  [<img width="80" height="30" src="https://img.shields.io/badge/Personal_Portfolio-blue" />](https://venkat121portfolio.netlify.app/)
 
  
 
