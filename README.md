@@ -26,10 +26,9 @@ Explore my personal and freelance projects on my
 📂 [**GitHub Repositories** »](https://github.com/Venkat121002?tab=repositories)
 
 🛠️ Notable Projects:
-- Expense Tracker  
-- Billing System with Tkinter & MySQL  
-- Portfolio Website  
-- Mini Project Management API  
+- Freelancing Project-01  
+- Expense Tracker
+- Portfolio Website
 
 ---
 
