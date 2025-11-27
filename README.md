@@ -35,7 +35,7 @@ Explore my personal and freelance projects on my
 ### 🧠 Tech Stack
 
 #### I Code In:
-<img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="CSS"/> <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript"/> <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap--v2.png" alt="Bootstrap"/>  <img height="50" width="50" src="https://img.icons8.com/color/48/python.png" alt="Python"/> <img width="48" height="48" src="https://img.icons8.com/color/48/django.png" alt="Django"/> <img height="50" width="50" src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/python.png" alt="Python"/> <img width="48" height="48" src="https://img.icons8.com/color/48/django.png" alt="Django"/> <img height="50" width="50" src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/> <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="CSS"/> <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript"/> <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap--v2.png" alt="Bootstrap"/> <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
 
 #### Tools I Use:
 <img height="50" width="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code"/> 
