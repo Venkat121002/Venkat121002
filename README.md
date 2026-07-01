@@ -42,19 +42,6 @@ Explore my personal and freelance projects on my
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Venkat121002&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venkat121002&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Venkat121002&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
 ### 🧩 Other Skills
 - 💼 **MS Excel** (Advanced formulas, charts, pivot tables)
 - 🎨 **Adobe Photoshop** (Basic design editing)
