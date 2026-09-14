@@ -1,59 +1,116 @@
-# 👋 Hi there, I'm Venkatesh!
+<div align="center">
 
-### 🚀 Full-Stack Developer (Python) | Building Clean, Scalable Web Apps
-🎯 Passionate about writing clean, efficient code and solving real-world problems through software
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Venkatesh%20👋&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Team%20Lead%20%7C%20MERN%20%26%20Python&descAlignY=55&descSize=18" width="100%"/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=90&lines=Full-Stack+Developer+(MERN+%26+Python);Leading+a+team+building+real-world+products;Django+%7C+React+%7C+Node.js+%7C+AWS;Turning+ideas+into+scalable+web+apps" alt="Typing SVG" />
 
-### 🌱 What I'm Currently Learning
-- 🌐 **Full-Stack Development with Python** (HTML, CSS, JavaScript, Bootstrap, Django, SQL)
-- 🛠️ **Backend Development** and system design for scalable applications
-- ⚛️ **React** for modern, dynamic front-ends
-- 🔐 Django Admin Panel & role-based access for real-time content management
+<br/>
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://venkat121portfolio.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkatesh121002/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:venkatesh121002@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Venkat121002?tab=repositories)
 
-### 🤝 Looking to Collaborate On
-I'm open to **collaborations and freelancing** on:
-- Full-Stack Web Development Projects
-- Backend APIs (Django / DRF / FastAPI)
-- Real-time, database-driven web apps
+</div>
 
 ---
 
-### 💻 Projects
-Explore my personal and freelance projects on my
-📂 [**GitHub Repositories** »](https://github.com/Venkat121002?tab=repositories)
+### 🎯 About Me
 
-🛠️ A few things I've built:
-- Full-stack web applications with Django & REST APIs
-- Database-driven admin dashboards
-- Personal & freelance client projects
+I'm a **Full-Stack Developer** who now works comfortably across the **complete MERN stack** as well as **Python/Django**, and I currently **lead a small development team**, building products and service-based web applications end to end — from architecture to deployment.
+
+I care about clean, efficient code, scalable systems, and solving real problems with software.
+
+- 🧑‍💻 Working across **MongoDB, Express, React, Node.js** and **Python/Django**
+- 🧭 Leading a team through project planning, architecture, and delivery
+- ☁️ Deploying and managing apps with **AWS** and **Firebase**
+- 🎯 Open to **freelancing & collaboration** on full-stack and backend API projects
+- 🌱 Currently deepening my knowledge of **system design** and **scalable backend architecture**
 
 ---
 
-### 🧠 Tech Stack
+### 🛠️ Tech Stack
 
-#### I Code In:
-<img height="50" width="50" src="https://img.icons8.com/color/48/python.png" alt="Python"/> <img width="48" height="48" src="https://img.icons8.com/color/48/django.png" alt="Django"/> <img height="50" width="50" src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/> <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="CSS"/> <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript"/> <img width="48" height="48" src="https://img.icons8.com/color/48/react-native.png" alt="React"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/> <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap--v2.png" alt="Bootstrap"/> <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
+**Languages & Core**
+<p> 
+<img src="https://img.icons8.com/color/48/python.png" width="42" alt="Python"/>
+<img src="https://img.icons8.com/color/48/html-5--v1.png" width="42" alt="HTML5"/>
+<img src="https://img.icons8.com/fluency/48/css3.png" width="42" alt="CSS3"/>
+<img src="https://img.icons8.com/color/48/javascript--v1.png" width="42" alt="JavaScript"/>
+</p>
 
-#### Tools I Use:
-<img height="50" width="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code"/> <img height="50" width="50" src="https://img.icons8.com/color/48/pycharm.png" alt="PyCharm"/>
+**Frontend**
+<p>
+<img src="https://img.icons8.com/color/48/react-native.png" width="42" alt="React"/>
+<img src="https://img.icons8.com/color/48/bootstrap--v2.png" width="42" alt="Bootstrap"/>
+</p>
+
+**Backend & Frameworks**
+<p>
+<img src="https://img.icons8.com/color/48/django.png" width="42" alt="Django"/>
+<img src="https://img.icons8.com/fluency/48/node-js.png" width="42" alt="Node.js"/>
+<img src="https://img.icons8.com/color/48/express-js.png" width="42" alt="Express"/>
+</p>
+
+**Databases**
+<p>
+<img src="https://img.icons8.com/color/48/mysql-logo.png" width="42" alt="MySQL"/>
+<img src="https://img.icons8.com/color/48/mongodb.png" width="42" alt="MongoDB"/>
+</p>
+
+**Cloud & Platforms**
+<p>
+<img src="https://img.icons8.com/color/48/amazon-web-services.png" width="42" alt="AWS"/>
+<img src="https://img.icons8.com/color/48/firebase.png" width="42" alt="Firebase"/>
+</p>
+
+**Tools**
+<p>
+<img src="https://img.icons8.com/color/48/git.png" width="42" alt="Git"/>
+<img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" width="42" alt="VS Code"/>
+<img src="https://img.icons8.com/color/48/pycharm.png" width="42" alt="PyCharm"/>
+</p>
 
 ---
 
 ### 🧩 Other Skills
-- 💼 **MS Excel** (Advanced formulas, charts, pivot tables)
-- 🎨 **Adobe Photoshop** (Basic design editing)
-- ⌨️ **Typewriting** (Junior Level, English)
+
+- 🎥**Video Editing** 
+- 🎨 **Adobe Photoshop** 
+- ⌨️ **Typewriting** 
 
 ---
 
-### 📫 Connect with Me
-📧 Email: **venkatesh121002@gmail.com**
-🌐 Portfolio: [venkat121portfolio.netlify.app](https://venkat121portfolio.netlify.app/)
-🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/venkatesh121002/)
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Venkat121002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venkat121002&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Venkat121002&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</div>
 
 ---
 
-> 🧠 _"Everything happens for a reason."_ — My favorite quote that keeps me going.
+### 🤝 Let's Collaborate
+
+I'm open to **freelance work and collaborations** on:
+
+- Full-Stack Web Development Projects (MERN & Django)
+- Backend APIs (Node/Express, Django REST Framework, FastAPI)
+- Real-time, database-driven web applications
+- Team-led product & service builds
+
+📩 Reach out via [email](mailto:venkatesh121002@gmail.com) or [LinkedIn](https://www.linkedin.com/in/venkatesh121002/) — happy to talk through your project.
+
+---
+
+<div align="center">
+
+> 🧠 *"Everything happens for a reason."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=100&section=footer" width="100%"/>
+
+</div>
