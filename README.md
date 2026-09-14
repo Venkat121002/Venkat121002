@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Venkatesh%20👋&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Team%20Lead%20%7C%20MERN%20%26%20Python&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Venkatesh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Team%20Lead%20%7C%20MERN%20%26%20Python&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=90&lines=Full-Stack+Developer+(MERN+%26+Python);Leading+a+team+building+real-world+products;Django+%7C+React+%7C+Node.js+%7C+AWS;Turning+ideas+into+scalable+web+apps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=180&lines=Full-Stack+Developer+(MERN+%26+Python);Leading+a+team+building+real-world+products;Django+%7C+React+%7C+Node.js+%7C+AWS;Turning+ideas+into+scalable+web+apps" alt="Typing SVG" />
 
 <br/>
 
@@ -75,9 +75,9 @@ I care about clean, efficient code, scalable systems, and solving real problems 
 
 ### 🧩 Other Skills
 
-- 🎥**Video Editing** 
-- 🎨 **Adobe Photoshop** 
-- ⌨️ **Typewriting** 
+- 💼 **MS Excel** — Advanced formulas, charts, pivot tables
+- 🎨 **Adobe Photoshop** — Basic design editing
+- ⌨️ **Typewriting** — Junior Level, English
 
 ---
 
@@ -88,7 +88,7 @@ I care about clean, efficient code, scalable systems, and solving real problems 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Venkat121002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venkat121002&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Venkat121002&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=Venkat121002&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
