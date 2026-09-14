@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Venkatesh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Team%20Lead%20%7C%20MERN%20%26%20Python&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:1f6feb,100:58a6ff&amp;height=200&amp;section=header&amp;text=Venkatesh&amp;fontSize=55&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Full-Stack%20Developer%20%7C%20Team%20Lead%20%7C%20MERN%20and%20Python&amp;descAlignY=55&amp;descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=180&lines=Full-Stack+Developer+(MERN+%26+Python);Leading+a+team+building+real-world+products;Django+%7C+React+%7C+Node.js+%7C+AWS;Turning+ideas+into+scalable+web+apps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=800&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=700&amp;height=180&amp;lines=Full-Stack+Developer+(MERN+and+Python);Leading+a+team+building+real-world+products;Django+%7C+React+%7C+Node.js+%7C+AWS;Turning+ideas+into+scalable+web+apps" alt="Typing SVG" />
 
 <br/>
 
@@ -85,10 +85,10 @@ I care about clean, efficient code, scalable systems, and solving real problems 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Venkat121002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venkat121002&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Venkat121002&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venkat121002&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Top Languages"/>
 
-<img src="https://streak-stats.demolab.com/?user=Venkat121002&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=Venkat121002&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
@@ -111,6 +111,6 @@ I'm open to **freelance work and collaborations** on:
 
 > 🧠 *"Everything happens for a reason."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:1f6feb,100:58a6ff&amp;height=100&amp;section=footer" width="100%"/>
 
 </div>
